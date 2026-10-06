@@ -1,4 +1,4 @@
-# 🛍️ SentimentIQ — AI Product Review Sentiment Analyzer
+# 🛍️ SentimentIQ - AI Product Review Sentiment Analyzer
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
